@@ -1,10 +1,12 @@
 .RData
 .Rhistory
 .Rproj.user/
-plots/
-employerSurvey2015.csv
-empsurv.csv
-learning_outcome_essays.csv
-LO Essay Assessment Clean Data - Sheet1.csv
+plots_2015-2016/
+plots_2016-2017/
 planning2015.Rproj
+employerSurvey2015.csv
+employer_survey_2015-2016.csv
+learning_outcome_essays_2015-2016.csv
+learning_outcome_essays_2016-2017.csv
+
 .Rproj.user
