@@ -1,4 +1,4 @@
-# R script to analyze employer survey data
+# R script to analyze alumni survey data
 # see 'employerSurvey2015.csv' file for working file
 
 library(reshape2)

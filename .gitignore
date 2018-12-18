@@ -1,6 +1,7 @@
 .RData
 .Rhistory
 .Rproj.user/
+alumni_surveys/*
 employer_surveys/employer_survey_2015-2016.csv
 employer_surveys/employerSurvey2015.csv
 learning_outcomes/learning_outcome_essays_2015-2016.csv
@@ -8,3 +9,4 @@ learning_outcomes/learning_outcome_essays_2016-2017.csv
 learning_outcomes/plots_2015-2016/
 learning_outcomes/plots_2016-2017/
 planning2015.Rproj
+.Rproj.user
